@@ -1,0 +1,7 @@
+# R-related
+*.csv
+*.txt
+*.Rproj
+
+# Legacy
+.DS_Store
